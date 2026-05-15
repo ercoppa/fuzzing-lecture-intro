@@ -6,7 +6,7 @@ A live version of the slides can be found at this [URL](https://docs.google.com/
 
 ## Fetch this repo
 ```
-git clone https://github.com/ercoppa/wifs2023-tutorial.git
+git clone [https://github.com/ercoppa/fuzzing-lecture-intro.git](https://github.com/ercoppa/fuzzing-lecture-intro.git)
 ```
 ## Dependencies
 * Makefile (to run some scripts)
